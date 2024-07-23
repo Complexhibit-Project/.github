@@ -1,6 +1,6 @@
 # OntoExhibit
 
-<img src="resources/logo_ontoexhibit.png" alt="OntoExhibit Logo" width="250" height="250">
+<img src="/resources/logo_ontoexhibit.png" alt="OntoExhibit Logo" width="250" height="250">
 
 ## About
 
